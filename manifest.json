@@ -1,0 +1,11 @@
+{
+    "name": "Stocks Analyer",
+    "version": "1.0.0",
+    "description": "last quarter result with expert analysis",
+    "manifest_version": 3,
+    "author": "Ayush Vardhan",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Stocks Analyer"
+    }
+}
